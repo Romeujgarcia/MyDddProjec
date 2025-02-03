@@ -1,0 +1,17 @@
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Infrastructure.deps.json
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Infrastructure.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Infrastructure.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Domain.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Domain.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.AssemblyInfo.cs
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddPro.476A89AF.Up2Date
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\refint\MyDddProject.Infrastructure.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\ref\MyDddProject.Infrastructure.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\bin\Debug\net8.0\MyDddProject.Infrastructure.runtimeconfig.json
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Infrastructure\obj\Debug\net8.0\MyDddProject.Infrastructure.genruntimeconfig.cache

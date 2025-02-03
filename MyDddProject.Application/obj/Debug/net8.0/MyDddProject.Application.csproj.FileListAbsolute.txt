@@ -1,0 +1,15 @@
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\bin\Debug\net8.0\MyDddProject.Application.deps.json
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\bin\Debug\net8.0\MyDddProject.Application.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\bin\Debug\net8.0\MyDddProject.Application.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\bin\Debug\net8.0\MyDddProject.Domain.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\bin\Debug\net8.0\MyDddProject.Domain.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.csproj.AssemblyReference.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.AssemblyInfoInputs.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.AssemblyInfo.cs
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddPro.885BF3BB.Up2Date
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\refint\MyDddProject.Application.dll
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\MyDddProject.Application.pdb
+C:\Users\Romeu\Downloads\Documento\NET core\DDD\MyDddProject.Application\obj\Debug\net8.0\ref\MyDddProject.Application.dll

@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Tests\\MyDddProject.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\MyDddProject.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\MyDddProject.API.csproj",
+        "projectName": "MyDddProject.API",
+        "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\MyDddProject.API.csproj",
+        "packagesPath": "C:\\Users\\Romeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj"
+              },
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\MyDddProject.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\MyDddProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj",
+        "projectName": "MyDddProject.Application",
+        "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj",
+        "packagesPath": "C:\\Users\\Romeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj",
+        "projectName": "MyDddProject.Domain",
+        "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\Romeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\MyDddProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\MyDddProject.Infrastructure.csproj",
+        "projectName": "MyDddProject.Infrastructure",
+        "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\MyDddProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Romeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Domain\\MyDddProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Tests\\MyDddProject.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Tests\\MyDddProject.Tests.csproj",
+        "projectName": "MyDddProject.Tests",
+        "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Tests\\MyDddProject.Tests.csproj",
+        "packagesPath": "C:\\Users\\Romeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\MyDddProject.API.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.API\\MyDddProject.API.csproj"
+              },
+              "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj": {
+                "projectPath": "C:\\Users\\Romeu\\Downloads\\Documento\\NET core\\DDD\\MyDddProject.Application\\MyDddProject.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

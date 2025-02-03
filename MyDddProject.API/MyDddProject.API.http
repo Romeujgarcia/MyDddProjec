@@ -1,0 +1,6 @@
+@MyDddProject.API_HostAddress = http://localhost:5144
+
+GET {{MyDddProject.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
